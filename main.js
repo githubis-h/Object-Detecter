@@ -1,10 +1,8 @@
-img = "";
+
 objects = [];
 status = "";
 
-function preload(){
-  img = loadImage('dog_cat.jpg');
-}
+
 
 
 function setup() {
